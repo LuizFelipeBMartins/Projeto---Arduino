@@ -1,13 +1,13 @@
 # Projeto Final - Jogo GENIUS com arduíno
 O projeto que será realizado é uma reprodução funcional do jogo de memória Genius, onde uma sequência é feita nos LEDs e o jogador deve apertar os botões de modo a respeitar essa sequência. A cada nova rodada a sequência fica maior.
 ## Materiais utilizados:
-1x - Arduíno UNO
-1x - Breadboard (placa de ensaio)
-18x - Fios jumpers
-4x - Botões (bush buttom)
-1x - Buzzer
-4x - Resistores 220Ω
-4x - LEDs(um de cada cor: vermelho, verde, azul e amarelo)
+- 1x - Arduíno UNO
+- 1x - Breadboard (placa de ensaio)
+- 18x - Fios jumpers
+- 4x - Botões (bush buttom)
+- 1x - Buzzer
+- 4x - Resistores 220Ω
+- 4x - LEDs(um de cada cor: vermelho, verde, azul e amarelo)
 ### Ligações:
 - LEDs:
   - LED 1 (vermelho): anodo no pino 2 e catodo no GND com resistor de 220Ω
