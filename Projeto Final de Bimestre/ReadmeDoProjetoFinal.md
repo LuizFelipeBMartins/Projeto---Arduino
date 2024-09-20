@@ -3,7 +3,7 @@ O projeto que será realizado é uma reprodução funcional do jogo de memória 
 ## Materiais utilizados:
 - 1x - Arduíno UNO
 - 1x - Breadboard (placa de ensaio)
-- 18x - Fios jumpers
+- 18x - Fios jumpers (macho-macho)
 - 4x - Botões (bush buttom)
 - 1x - Buzzer
 - 4x - Resistores 220Ω
