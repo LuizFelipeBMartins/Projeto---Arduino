@@ -43,7 +43,7 @@ void setup() {
   // Definindo o modo do pino de Áudio como saída.
   pinMode(pinoAudio, OUTPUT);
  
-  // Inicializando o random através de uma leitura da porta analógica.
+  // Inicializando o aleatório através de uma leitura da porta analógica.
   // Esta leitura gera um valor variável entre 0 e 1023.
   randomSeed(analogRead(0));
 }
@@ -57,7 +57,7 @@ void loop() {
     perdeu_o_jogo = false;
   }
  
-  // Toca um som de início para anúnicar que o jogo está começando quando é a primeira rodada.
+  // Toca um som de início para mostrar que o jogo está começando quando é a primeira rodada.
   if (rodada_atual == 0) {
     tocarSomDeInicio();
     delay(500);
