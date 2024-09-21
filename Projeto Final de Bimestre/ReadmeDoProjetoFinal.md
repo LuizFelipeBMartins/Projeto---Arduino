@@ -36,3 +36,7 @@ O código continua com a função loop(), que determina ações contínuas para 
 ##### 3. Desenvolvimento e progressão:
 A cada nova rodada que o jogador acerta, mais uma "piscada" é executada, fazendo que seja mais difícil que a pessoa acerte. Caso o jogador erre, todos os LEDs piscam e uma sequência nova é gerada, de modo a recomeçar o jogo desde o início.
 
+###### Imagem real do projeto:
+![WhatsApp Image 2024-09-20 at 21 21 43](https://github.com/user-attachments/assets/823b36d9-764f-49e6-a1d4-c738027769cb)
+
+
