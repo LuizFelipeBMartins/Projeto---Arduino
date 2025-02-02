@@ -1,4 +1,4 @@
-# Projeto Final - Jogo GENIUS com arduíno
+# Projeto Final - Jogo GENIUS com Arduíno
 O projeto que será realizado é uma reprodução funcional do jogo de memória Genius, onde uma sequência é feita nos LEDs e o jogador deve apertar os botões de modo a respeitar essa sequência. A cada nova rodada a sequência fica maior.
 ## Materiais utilizados:
 - 1x - Arduíno UNO
